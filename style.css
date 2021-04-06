@@ -1,0 +1,33 @@
+body{
+    background-color:#303030;
+    color:#ffb3fd;
+    font-family:monospace ;
+    font-size:20px ;
+}
+.grid img{
+border: 2px solid #303030 ;
+border-radius: 50px;
+}
+.origami{
+    border-radius:20px ;
+    background-color:#01ffff;
+    color:#303030;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 350px;
+    height:390px;
+    font-size:16px ;
+    font-family:monospace ;
+    
+}
+
+.menu{
+    border-radius:20px ;
+    display:flex;
+    justify-content:space-between ;
+    background:#9d72ff;
+    font-size:20px ;
+    font-family:monospace;
+    font-weight: 400;
+    color:#303030;
+}
